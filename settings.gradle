@@ -1,0 +1,5 @@
+rootProject.name = 'ParkingLot'
+include 'parkinglot-system'
+include 'inmemory-parkinglot-system'
+include 'end-to-end-test'
+

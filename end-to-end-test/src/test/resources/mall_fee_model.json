@@ -1,0 +1,8 @@
+{
+  "TWO_WHEEL": {
+    "fee": 10
+  },
+  "SMALL_FOUR_WHEEL": {
+    "fee": 30
+  }
+}

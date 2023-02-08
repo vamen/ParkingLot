@@ -1,0 +1,14 @@
+{
+  "TWO_WHEEL": {
+    "weekDayPerHourFee": 10,
+    "weekEndPerHourFee": 20
+  },
+  "SMALL_FOUR_WHEEL": {
+    "weekDayPerHourFee": 50,
+    "weekEndPerHourFee": 80
+  },
+  "LARGE_FOUR_WHEEL": {
+    "weekDayPerHourFee": 100,
+    "weekEndPerHourFee": 150
+  }
+}

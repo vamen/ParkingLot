@@ -1,0 +1,37 @@
+{
+  "TWO_WHEEL": {
+    "rangeFees": [
+      {
+        "fromTime": 0,
+        "toTime": 1,
+        "fee": 0
+      },
+      {
+        "fromTime": 1,
+        "toTime": 8,
+        "fee": 40
+      },
+      {
+        "fromTime": 8,
+        "toTime": 24,
+        "fee": 60
+      }
+    ],
+    "perDayFee": 80
+  },
+  "SMALL_FOUR_WHEEL": {
+    "rangeFees": [
+      {
+        "fromTime": 0,
+        "toTime": 12,
+        "fee": 60
+      },
+      {
+        "fromTime": 12,
+        "toTime": 24,
+        "fee": 80
+      }
+    ],
+    "perDayFee": 100
+  }
+}

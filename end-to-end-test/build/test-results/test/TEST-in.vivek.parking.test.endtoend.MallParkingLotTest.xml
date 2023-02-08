@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="in.vivek.parking.test.endtoend.MallParkingLotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-01T08:35:57" hostname="Viveks-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="mallParkingLotTest()" classname="in.vivek.parking.test.endtoend.MallParkingLotTest" time="0.013"/>
+  <system-out><![CDATA[Ticket{ticketId=005, spotId=0, inTime=2023-02-01T08:35:57.422031Z}
+Ticket{ticketId=006, spotId=1, inTime=2023-02-01T08:35:57.422511Z}
+Receipt{receiptId='R-005', sotId=1, inTime=2023-02-01T08:35:57.422511Z, outTime=2023-02-01T09:29:57.422511Z, fees=10.0}
+Ticket{ticketId=007, spotId=1, inTime=2023-02-01T08:35:57.424584Z}
+Receipt{receiptId='R-006', sotId=1, inTime=2023-02-01T08:35:57.422511Z, outTime=2023-02-01T12:19:57.422031Z, fees=40.0}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

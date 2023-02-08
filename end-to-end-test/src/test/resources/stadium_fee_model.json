@@ -1,0 +1,32 @@
+{
+  "TWO_WHEEL": {
+    "rangeFees": [
+      {
+        "fromTime": 0,
+        "toTime": 4,
+        "fee": 30
+      },
+      {
+        "fromTime": 4,
+        "toTime": 12,
+        "fee": 60
+      }
+    ],
+    "perHourFee": 100
+  },
+  "SMALL_FOUR_WHEEL": {
+    "rangeFees": [
+      {
+        "fromTime": 0,
+        "toTime": 4,
+        "fee": 60
+      },
+      {
+        "fromTime": 4,
+        "toTime": 12,
+        "fee": 120
+      }
+    ],
+    "perHourFee": 200
+  }
+}

@@ -1,0 +1,13 @@
+CTicket{ticketId=001, spotId=0, inTime=2023-02-01T08:35:57.300560Z}
+xReceipt{receiptId='R-001', sotId=0, inTime=2023-02-01T08:35:57.300560Z, outTime=2023-02-01T12:15:57.300560Z, fees=30.0}
+FTicket{ticketId=002, spotId=1000, inTime=2023-02-01T08:35:57.374904Z}
+|Receipt{receiptId='R-002', sotId=1000, inTime=2023-02-01T08:35:57.374904Z, outTime=2023-02-01T22:05:57.374904Z, fees=580.0}
+CTicket{ticketId=003, spotId=0, inTime=2023-02-01T08:35:57.406692Z}
+wReceipt{receiptId='R-003', sotId=0, inTime=2023-02-01T08:35:57.406692Z, outTime=2023-02-01T09:30:57.406692Z, fees=0.0}
+ETicket{ticketId=004, spotId=200, inTime=2023-02-01T08:35:57.408060Z}
+wReceipt{receiptId='R-003', sotId=0, inTime=2023-02-01T08:35:57.406692Z, outTime=2023-02-01T09:30:57.406692Z, fees=0.0}
+CTicket{ticketId=005, spotId=0, inTime=2023-02-01T08:35:57.422031Z}
+CTicket{ticketId=006, spotId=1, inTime=2023-02-01T08:35:57.422511Z}
+xReceipt{receiptId='R-005', sotId=1, inTime=2023-02-01T08:35:57.422511Z, outTime=2023-02-01T09:29:57.422511Z, fees=10.0}
+CTicket{ticketId=007, spotId=1, inTime=2023-02-01T08:35:57.424584Z}
+xReceipt{receiptId='R-006', sotId=1, inTime=2023-02-01T08:35:57.422511Z, outTime=2023-02-01T12:19:57.422031Z, fees=40.0}

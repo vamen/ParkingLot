@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../end-to-end-tester/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../end-to-end-tester/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../end-to-end-tester/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../end-to-end-tester/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="13" jdkType="JavaSDK" />
+    <orderEntry type="library" name="Gradle: org.projectlombok:lombok:1.18.24" level="project" />
+  </component>
+</module>
